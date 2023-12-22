@@ -8,7 +8,7 @@ body {
 	justify-content:center;
 	align-items:center;
 }
-.hero>img{
+img{
 	width:400px;
 	height:auto;
 	object-fit:cover;
@@ -16,9 +16,9 @@ body {
 .Explore>button{
 	color:white;
 	background-color:red;
-	justify-content:center;
+	padding:10px;
+	border-radius:5px;
 }
 .Explore{
 	text-align:center;
-	
 }
