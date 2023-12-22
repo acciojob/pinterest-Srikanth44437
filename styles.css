@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  
 }
 .hero{
 	display:flex;
@@ -12,7 +12,6 @@ body {
 	width:400px;
 	height:auto;
 	object-fit:cover;
-	padding:20px;
 }
 .Explore>button{
 	color:white;
