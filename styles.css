@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.hero>img{
+	width:400px;
+	height:auto;
+	object-fit:cover;
+	padding:20px;
+}
+.Explore>button{
+	color:white;
+	background-color:red;
+	justify-content:center;
+}
+.Explore{
+	text-align:center;
+	
+}
